@@ -1,0 +1,6 @@
+# Ignore binaries (files without extensions)
+**/*
+!**/*/
+!**/*.*
+
+.vscode
